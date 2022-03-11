@@ -23,6 +23,7 @@ function App() {
             setIsAuth,
             isLoading
         }}>
+
         <BrowserRouter>
             <Navbar/>
             <AppRouter/>
